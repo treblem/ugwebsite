@@ -127,6 +127,15 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ff0000"
+            },
+            ".mbr-section-lead": {
+              "color": "#f7fa0d",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": false,
@@ -151,16 +160,7 @@
           },
           "title": "UBAY GAMING<br><br><br>",
           "text": "“Experience computer gaming at its best with endless list of games to choose from!”",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ff0000"
-            },
-            ".mbr-section-lead": {
-              "color": "#f7fa0d",
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
           "_inherit": "gallery1",
