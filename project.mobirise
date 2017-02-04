@@ -357,11 +357,11 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wwy4z3jyvpawouujaprp-2000x995.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.8",
             "overlayColor": "#3C3C3C",
             "googleMap": {
               "address": "Ruperto Gaviola Street\nPoblacion, Ubay, Bohol\nPhilippines",
