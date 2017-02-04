@@ -15,13 +15,13 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "3.11.1"
   },
   "pages": {
