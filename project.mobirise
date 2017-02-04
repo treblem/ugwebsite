@@ -141,7 +141,7 @@
               "url": "https://www.youtube.com/embed/guGFT27SavM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
