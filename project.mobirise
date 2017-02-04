@@ -271,7 +271,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwit2-D7xfbRAhXJlZQKHdpYBTIQFgglMAE&amp;url=http%3A%2F%2Fwww.dota2.com%2Finternational%2F&amp;usg=AFQjCNFIcfbXImw2y36rHGVJYuj2xhqWHQ&amp;sig2=-kwXP_39K1SoG_thjwN6qA&amp;bvm=bv.146094739,d.dGo\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lolpic-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/249f1561515f8c563729c678ba0b07ea-600x541.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -357,11 +357,11 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wwy4z3jyvpawouujaprp-2000x995.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.3",
             "overlayColor": "#3C3C3C",
             "googleMap": {
               "address": "Ruperto Gaviola Street\nPoblacion, Ubay, Bohol\nPhilippines",
