@@ -271,7 +271,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwit2-D7xfbRAhXJlZQKHdpYBTIQFgglMAE&amp;url=http%3A%2F%2Fwww.dota2.com%2Finternational%2F&amp;usg=AFQjCNFIcfbXImw2y36rHGVJYuj2xhqWHQ&amp;sig2=-kwXP_39K1SoG_thjwN6qA&amp;bvm=bv.146094739,d.dGo\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gpgc8atw-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/league-of-legends-logo-e1326600536229-500x500-c-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -319,7 +319,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"http://tera.enmasse.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sdoj6p-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/190369-orig-600x386.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
